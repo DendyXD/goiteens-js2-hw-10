@@ -1,0 +1,28 @@
+.animated-list {
+    list-style: none;
+    width: 500px;
+    height: 400px;
+    /* border: 1px solid #000; */
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.animated-item {
+    width: 100px;
+    height: 100px;
+    list-style: none;
+    background-color: red;
+    /* position: absolute; */
+    margin-bottom: 50px;
+}
+
+.list-game {
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-game {
+    display: inline-block;
+    width: 100px;
+    height: 100px;border: 1px solid #000;
+}
